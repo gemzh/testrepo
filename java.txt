@@ -1,0 +1,13 @@
+HyperText Markup Language (HTML), Cascading Style Sheets (CSS), and JavaScript are the languages that run the web.
+
+HTML is for adding meaning to raw content by marking it up.
+CSS is for formatting that marked up content.
+JavaScript is for making that content and formatting interactive.
+
+There are a ton of other things you will have to learn to actually make a web, like:
+ 
+Organizing HTML into reusable templates
+Standing up a web server
+Moving files from your local computer to your web server
+Reverting to a previous version when you screw something up
+Pointing a domain name at your server
